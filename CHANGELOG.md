@@ -16,6 +16,12 @@ should change the heading of the (upcoming) version to include a major version b
 
 -->
 
+# 5.23.2
+
+## @rjsf/validator-ajv8
+
+- Fixed issue where `ui:title` in anyOf/oneOf is not shown in error messages. Fixes [#4368](https://github.com/rjsf-team/react-jsonschema-form/issues/4368)
+
 # 5.23.1
 
 ## @rjsf/chakra-ui
